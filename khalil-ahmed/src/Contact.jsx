@@ -12,7 +12,7 @@ const Contact = () => {
         </div>
         <div className="max-w-4xl mx-auto text-center">
           <p className="text-lg font-sans mb-8">
-            I am currently available for custom projects and collaborations. If you have a vision, let's work together to bring it to life.
+            We are currently available for custom projects and collaborations. If you have a vision, let's work together to bring it to life.
           </p>
           <div className="flex flex-col md:flex-row justify-center items-center gap-8 mb-12">
             <a href="mailto:ka8418044@gmail.com" className="text-xl hover:text-gray-300">ka8418044@gmail.com</a>
