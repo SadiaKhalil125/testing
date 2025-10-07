@@ -6,7 +6,7 @@ import bannerImage2 from '../src/assets/banner2.jpg'
 import bannerImage3 from '../src/assets/banner3.png'
 
 // Step 2: Create an array of the imported images
-const slideImages = [bannerImage1, bannerImage2, bannerImage3];
+const slideImages = [bannerImage2, bannerImage1, bannerImage3];
 
 const Hero = () => {
   // Step 3: Set up state to track the current slide index
